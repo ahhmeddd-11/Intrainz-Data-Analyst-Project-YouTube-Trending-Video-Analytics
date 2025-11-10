@@ -1,4 +1,4 @@
-# Personal Project - YouTube Trending Video Analytics (IN)
+# Intrainz Project - YouTube Trending Video Analytics (IN)
 
 ## 📌 Overview
 
